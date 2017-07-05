@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+header, main {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+header{
+  font-size: 20px;
+  line-height: 29px;
+}
+
+.align-right{
+  text-align: right;
+  margin-bottom: 30px;
+}
+
+.images{
+  margin:15px;
+  float: left;
+  height:150px;
+  width:135px;
+}
+
+footer{
+  font-size: 13px;
+  line-height: 20px;
+  clear: both;
+  text-align: center;
+  width:70%;
+  margin:10px auto;
+  border-top: .5px solid #aaa;
+}
+a{
+  text-decoration: none;
+}
+span{
+  padding-left: 15px;
+  padding-right: 15px;
+}
